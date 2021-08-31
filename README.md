@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeoDuhz's github stats](https://github-readme-stats.vercel.app/api?username=LeoDuhz&count_private=true&show_icons=true)
+![LeoDuhz's github stats](https://github-readme-stats.vercel.app/api?username=LeoDuhz&count_private=true&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDuhz&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
